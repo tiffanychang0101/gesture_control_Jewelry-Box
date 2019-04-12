@@ -1,9 +1,11 @@
 # gesture_control_Jewelry-Box
 資訊美學與互動設計期末專題 - 手勢控制首飾盒
-![1](https://github.com/tiffanychang0101/gesture_control_Jewelry-Box/raw/master/20180612_092054_0.jpg)
-![2](https://github.com/tiffanychang0101/gesture_control_Jewelry-Box/raw/master/20180612_092004_0.jpg)
 ## DEMO短片：
 [連結](https://youtu.be/IZnPQusfKbg)
+
+![1](https://github.com/tiffanychang0101/gesture_control_Jewelry-Box/raw/master/20180612_092004_0.jpg)
+![2](https://github.com/tiffanychang0101/gesture_control_Jewelry-Box/raw/master/20180612_092054_0.jpg)
+
 
 ## 材料介紹：
 使用Arduino               
