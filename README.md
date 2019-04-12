@@ -1,6 +1,7 @@
 # gesture_control_Jewelry-Box
 資訊美學與互動設計期末專題 - 手勢控制首飾盒
-
+![1](https://github.com/tiffanychang0101/gesture_control_Jewelry-Box/raw/master/20180612_092054_0.jpg)
+![2](https://github.com/tiffanychang0101/gesture_control_Jewelry-Box/raw/master/20180612_092004_0.jpg)
 ## DEMO短片：
 [連結](https://youtu.be/IZnPQusfKbg)
 
@@ -10,7 +11,9 @@ APDS-9960 RGB紅外手勢傳感器 運動方向識別模組
 步進馬達            
             
 外型使用YAYOI免燒黏土           
-廣告顏料上色, 最外層上亮光漆外層           
+廣告顏料上色, 最外層上亮光漆外層    
+
+![3](https://github.com/tiffanychang0101/gesture_control_Jewelry-Box/raw/master/20180609_105222_0.jpg)
             
 ## 作品介紹：
 銀牙姬是一個利用手勢控制假牙開闔的首飾盒，              
