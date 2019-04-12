@@ -1,5 +1,5 @@
 # gesture_control_Jewelry-Box
-##　作品名稱：銀牙姬　　　　　　　　　
+## 作品名稱：銀牙姬　　　　　　　　　
 資訊美學與互動設計期末專題 - 手勢控制首飾盒　　　　　　　　
 
 ## DEMO短片：
