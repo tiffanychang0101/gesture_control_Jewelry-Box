@@ -1,9 +1,11 @@
 # gesture_control_Jewelry-Box
-##作品名稱：銀牙姬
-資訊美學與互動設計期末專題 - 手勢控制首飾盒
+##　作品名稱：銀牙姬　　　　　　　　　
+資訊美學與互動設計期末專題 - 手勢控制首飾盒　　　　　　　　
+
 ## DEMO短片：
 [連結](https://youtu.be/IZnPQusfKbg)
-
+                                    
+                                    
 ![1](https://github.com/tiffanychang0101/gesture_control_Jewelry-Box/raw/master/20180612_092004_0.jpg)
 ![2](https://github.com/tiffanychang0101/gesture_control_Jewelry-Box/raw/master/20180612_092054_0.jpg)
 
